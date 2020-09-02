@@ -8,4 +8,4 @@ passo pra rodar o projeto
  - ir e Tools -> Nuget Package Manager -> Package Manager Console
  - Executar o comando: update-database
   após o comando finalizar, rodar o projeto.
-  é necessario fazer o registro e login pra poder ter acesso as funcionalidades.
+  é necessario fazer o registro, clicar em confirmar email e logo apos fazer o login pra poder ter acesso as funcionalidades.
